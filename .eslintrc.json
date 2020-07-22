@@ -1,0 +1,19 @@
+{
+  "extends": ["react-app", "plugin:prettier/recommended"],
+  "rules": {
+    /** Warn if console.log are added */
+    "no-console": "warn",
+
+    /** Prettier only throws warnings */
+    "prettier/prettier": "warn",
+
+    /** Enforcing rules about import ordering */
+    "import/order": [
+      "warn",
+      {
+        "groups": [["builtin", "external"], "internal", ["parent", "sibling", "index"]],
+        "newlines-between": "always-and-inside-groups"
+      }
+    ]
+  }
+}
