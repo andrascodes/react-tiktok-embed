@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.js": "/how-to-create-a-react-lib/static/js/main.570ff903.chunk.js",
+    "main.js.map": "/how-to-create-a-react-lib/static/js/main.570ff903.chunk.js.map",
+    "runtime-main.js": "/how-to-create-a-react-lib/static/js/runtime-main.ebe6c836.js",
+    "runtime-main.js.map": "/how-to-create-a-react-lib/static/js/runtime-main.ebe6c836.js.map",
+    "static/js/2.c5446294.chunk.js": "/how-to-create-a-react-lib/static/js/2.c5446294.chunk.js",
+    "static/js/2.c5446294.chunk.js.map": "/how-to-create-a-react-lib/static/js/2.c5446294.chunk.js.map",
+    "index.html": "/how-to-create-a-react-lib/index.html",
+    "precache-manifest.e8c7c34f3adf332bb09a612575cbf814.js": "/how-to-create-a-react-lib/precache-manifest.e8c7c34f3adf332bb09a612575cbf814.js",
+    "service-worker.js": "/how-to-create-a-react-lib/service-worker.js",
+    "static/js/2.c5446294.chunk.js.LICENSE.txt": "/how-to-create-a-react-lib/static/js/2.c5446294.chunk.js.LICENSE.txt",
+    "static/js/main.570ff903.chunk.js.LICENSE.txt": "/how-to-create-a-react-lib/static/js/main.570ff903.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ebe6c836.js",
+    "static/js/2.c5446294.chunk.js",
+    "static/js/main.570ff903.chunk.js"
+  ]
+}
