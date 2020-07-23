@@ -19,7 +19,7 @@
     "clean": "gh-pages-clean",
     "predeploy": "cd example && yarn install && yarn build",
     "deploy": "gh-pages -d example/build",
-    "lint": "eslint . --max-warnings=0",
+    "lint": "eslint src example/src --ext ts,tsx,js,jsx --max-warnings=0",
     "format": "prettier --write \"**/*.+(js|jsx|ts|tsx|json|yml|yaml|css|md|vue)\"",
     "typecheck": "tsc -p ./tsconfig.json",
     "typecheck:watch": "yarn typecheck --watch"
@@ -78,5 +78,9 @@
     "rollup-plugin-peer-deps-external": "^2.2.3",
     "rollup-plugin-typescript2": "^0.27.1",
     "typescript": "^3.9.7"
+  },
+  "dependencies": {
+    "fetch-retry": "^4.0.1",
+    "react-helmet": "^6.1.0"
   }
 }
