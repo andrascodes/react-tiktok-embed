@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "A React component for embedding TikTok videos",
   "repository": "git@github.com:andrewszucs/react-tiktok.git",
-  "homepage": "http://andrewszucs.github.io/how-to-create-a-react-lib",
+  "homepage": "http://andrewszucs.github.io/react-tiktok",
   "author": "András Szücs <andrew0szucs@gmail.com>",
   "license": "MIT",
   "private": false,

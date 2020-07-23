@@ -1,7 +1,7 @@
 {
   "name": "example",
   "version": "0.1.0",
-  "homepage": "http://andrewszucs.github.io/how-to-create-a-react-lib",
+  "homepage": "http://andrewszucs.github.io/react-tiktok",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "link:../node_modules/@testing-library/jest-dom",
