@@ -46,9 +46,9 @@ jobs:
       - name: Install dependencies
         run: yarn install --frozen-lockfile --ignore-optional
 
-      - name: 'Typecheck'
+      - name: Typecheck
         run: yarn typecheck
-      - name: 'Lint'
+      - name: Lint
         run: yarn lint
-      - name: 'Build'
+      - name: Build
         run: yarn build
